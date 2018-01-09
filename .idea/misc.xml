@@ -8,6 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/registercenter/pom.xml" />
         <option value="$PROJECT_DIR$/routeservice/pom.xml" />
+        <option value="$PROJECT_DIR$/routeconsumer/pom.xml" />
       </list>
     </option>
   </component>
