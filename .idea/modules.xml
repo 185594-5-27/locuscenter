@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/registercenter/registercenter.iml" filepath="$PROJECT_DIR$/registercenter/registercenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/routeservice/routeservice.iml" filepath="$PROJECT_DIR$/routeservice/routeservice.iml" />
     </modules>
   </component>
 </project>

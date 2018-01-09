@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="registercenter" />
+        <module name="routeservice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="registercenter" target="1.8" />
       <module name="registrycenter" target="1.8" />
+      <module name="routeservice" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
