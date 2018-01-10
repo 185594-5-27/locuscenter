@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/registercenter/pom.xml" />
         <option value="$PROJECT_DIR$/routeservice/pom.xml" />
         <option value="$PROJECT_DIR$/routeconsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/zinpkin/pom.xml" />
+        <option value="$PROJECT_DIR$/api-gateway/pom.xml" />
       </list>
     </option>
   </component>

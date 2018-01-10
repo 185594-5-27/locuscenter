@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/registercenter/registercenter.iml" filepath="$PROJECT_DIR$/registercenter/registercenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/routeconsumer/routeconsumer.iml" filepath="$PROJECT_DIR$/routeconsumer/routeconsumer.iml" />
+      <module fileurl="file://D:\Intellij-work\locuscenter\routeconsumer\routeconsumer.iml" filepath="D:\Intellij-work\locuscenter\routeconsumer\routeconsumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/routeservice/routeservice.iml" filepath="$PROJECT_DIR$/routeservice/routeservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zinpkin/zinpkin.iml" filepath="$PROJECT_DIR$/zinpkin/zinpkin.iml" />
     </modules>
   </component>
 </project>
