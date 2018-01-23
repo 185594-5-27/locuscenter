@@ -19,8 +19,8 @@ public class RouteController {
      * @param trajectory
      */
     @RequestMapping(value = "/transmissionTrajectoryData", method = RequestMethod.POST)
-    public void transmissionTrajectoryData(Trajectory trajectory){
-        routeService.transmissionTrajectoryData(trajectory);
+    public String transmissionTrajectoryData(Trajectory trajectory){
+        return routeService.transmissionTrajectoryData(trajectory);
     }
 
 

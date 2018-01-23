@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 /*
-* 类描述：
+* 类描述：轨迹业务处理controller类
 * @auther linzf
 * @create 2018/1/9 0009 
 */
@@ -19,8 +19,9 @@ public class RouteController {
      * @param trajectory
      */
     @RequestMapping(value = "/transmissionTrajectoryData", method= RequestMethod.POST)
-    public void transmissionTrajectoryData(Trajectory trajectory){
+    public String transmissionTrajectoryData(Trajectory trajectory){
            System.out.println("-------轨迹数据已接收到--------");
+           return "接收到数据了";
     }
 
 }

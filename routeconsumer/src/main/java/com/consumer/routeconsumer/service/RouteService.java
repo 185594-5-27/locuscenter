@@ -15,6 +15,6 @@ public interface RouteService {
      * @param trajectory
      */
     @RequestMapping(value = "/transmissionTrajectoryData" ,method = RequestMethod.POST)
-    void transmissionTrajectoryData(@RequestBody Trajectory trajectory);
+    String transmissionTrajectoryData(@RequestBody Trajectory trajectory);
 
 }
